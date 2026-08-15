@@ -47,12 +47,19 @@ partida y contempla la construcción de bases de datos con Excel y SPSS.
 
 Preguntar:
 
-1.  ¿Para qué creen que sirve la estadística en contaduría?
+1.  ¿Para qué creen que sirve la estadística en contaduría? 
 2.  ¿Qué diferencia hay entre un dato y una información?
 3.  ¿Qué haría un contador si tiene 10,000 facturas y necesita conocer
     el comportamiento de las ventas?
 4.  ¿Necesitaría revisar las 10,000 facturas para responder cualquier
     pregunta?
+| Pregunta                                      | Queremos llevarlos hacia...                                                  |
+| --------------------------------------------- | ---------------------------------------------------------------------------- |
+| ¿Para qué sirve la estadística en contaduría? | Analizar datos para obtener información y apoyar decisiones.                 |
+| ¿Dato vs. información?                        | Los datos adquieren significado cuando se organizan, procesan e interpretan. |
+| ¿Qué hacer con 10,000 facturas?               | Organizar, resumir, analizar y representar los datos.                        |
+| ¿Hay que revisar las 10,000?                  | No siempre; dependiendo del objetivo podemos trabajar con una muestra.       |
+
 
 Explicar:
 
@@ -323,7 +330,7 @@ Preguntar:
 
 ------------------------------------------------------------------------
 
-# 18. Introducción a SPSS
+# 18. Introducción a SPSS (https://www.youtube.com/watch?v=fdWhORTpvNA)
 
 ### ¿Qué es?
 
